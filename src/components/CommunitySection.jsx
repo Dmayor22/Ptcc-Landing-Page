@@ -3,18 +3,18 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faArrowRight } from "@fortawesome/free-solid-svg-icons";
 
 const images = [
-  "../../public/images/community1.jpg",
-  "../../public/images/community2.jpg",
-  "../../public/images/community3.jpg",
-  "../../public/images/community4.jpg",
-  "../../public/images/community5.jpg",
-  "../../public/images/community6.jpg",
-  "../../public/images/community7.jpg",
-  "../../public/images/community8.jpg",
-  "../../public/images/community9.jpg",
-  "../../public/images/community10.jpg",
-  "../../public/images/community11.jpg",
-  "../../public/images/community12.jpg",
+  "/images/community1.jpg",
+  "/images/community2.jpg",
+  "/images/community3.jpg",
+  "/images/community4.jpg",
+  "/images/community5.jpg",
+  "/images/community6.jpg",
+  "/images/community7.jpg",
+  "/images/community8.jpg",
+  "/images/community9.jpg",
+  "/images/community10.jpg",
+  "/images/community11.jpg",
+  "/images/community12.jpg",
 ];
 
 const CommunitySection = () => {

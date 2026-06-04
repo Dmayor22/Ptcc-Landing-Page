@@ -25,7 +25,7 @@ const Hero = () => {
       <nav className="absolute top-0 md:top-3.5 left-0 w-full z-20 flex items-center justify-between px-6 md:px-12 py-4 text-white bg-black/70 md:bg-transparent ">
         {/* Potter's Logo */}
         <img
-          src="../public/images/Potter-logo.png"
+          src="/images/Potter-logo.png"
           alt="Potter's Logo"
           className="h-10.25 w-30.5"
         />
@@ -117,7 +117,7 @@ const Hero = () => {
 
         {/* mobile menu logo */}
         <img
-          src="../public/images/Potter-logo.png"
+          src="/images/Potter-logo.png"
           alt="Potter's Logo"
           className="h-10.25 w-30.5 ml-6"
         />

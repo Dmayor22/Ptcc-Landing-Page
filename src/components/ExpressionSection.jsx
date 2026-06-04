@@ -5,15 +5,15 @@ import { faArrowRight } from "@fortawesome/free-solid-svg-icons";
 const locations = [
   {
     name: "OJODU",
-    image: "../../public/images/ojodu.jpg",
+    image: "/images/ojodu.jpg",
   },
   {
     name: "IKORODU",
-    image: "../../public/images/ikorodu.jpg",
+    image: "/images/ikorodu.jpg",
   },
   {
     name: "YABA",
-    image: "../../public/images/yaba.jpg",
+    image: "/images/yaba.jpg",
   },
 ];
 const ExpressionSection = () => {

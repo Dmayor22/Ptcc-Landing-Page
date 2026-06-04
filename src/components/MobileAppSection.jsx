@@ -41,7 +41,7 @@ const MobileAppSection = () => {
           {/* Phone Image */}
           <div className="flex justify-center lg:justify-end">
             <img
-              src="../../public/images/mobile-app.png"
+              src="/images/mobile-app.png"
               alt="Mobile App"
               className="w-115 md:w-[320px] lg:w-105"
             />

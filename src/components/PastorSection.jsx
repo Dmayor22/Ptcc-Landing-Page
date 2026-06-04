@@ -15,7 +15,7 @@ const PastorSection = () => {
             <div className="absolute inset-0 blur-3xl bg-white/20 rounded-full scale-110"></div>
 
             <img
-              src="../../public/images/senior-pastor.jpg"
+              src="/images/senior-pastor.jpg"
               alt="Senior Pastor"
               className="relative w-75 md:w-full -z-10 object-cover "
             />

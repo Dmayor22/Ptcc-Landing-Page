@@ -53,7 +53,7 @@ const Welcome = () => {
       {/* RIGHT SIDE IMAGE */}
       <div className="hidden md:block md:w-1/2 md:h-148.75">
         <img
-          src="../../public/images/welcome-image.jpg"
+          src="/images/welcome-image.jpg"
           alt="Church audience"
           className="w-full h-full object-cover"
         />

@@ -8,19 +8,19 @@ const services = [
     title: "Tuesdays",
     time: "6:00 PM",
     desc: "Wisdom & Power Night",
-    image: "../../public/images/tuesday.jpg",
+    image: "/images/tuesday.jpg",
   },
   {
     title: "Sundays",
     time: "8:00 AM & 10:00 AM",
     desc: "Worship Service",
-    image: "../../public/images/sunday.jpg",
+    image: "/images/sunday.jpg",
   },
   {
     title: "Last Fridays",
     time: "10:00 PM",
     desc: "Supernatural Night",
-    image: "../../public/images/friday.jpg",
+    image: "/images/friday.jpg",
   },
 ];
 

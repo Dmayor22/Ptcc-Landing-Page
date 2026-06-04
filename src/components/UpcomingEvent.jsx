@@ -47,7 +47,7 @@ const UpcomingEvent = () => {
       <div className="mt-10 relative h-70 md:h-80 rounded-lg overflow-hidden">
         {/* IMAGE */}
         <img
-          src="../../public/images/event.jpg"
+          src="/images/event.jpg"
           alt="Event"
           className="w-full h-full object-cover"
         />
