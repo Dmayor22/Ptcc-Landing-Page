@@ -59,7 +59,7 @@ const Hero = () => {
         ref={videoRef}
         onEnded={() => setVideoAction(false)}
         className="hidden md:block absolute inset-0 w-full h-full object-cover"
-        src="/videos/IMG_6540.mp4"
+        src="/videos/banner-video.mp4"
       />
 
       {/* DARK OVERLAY */}
