@@ -42,7 +42,7 @@ const Hero = () => {
 
         {/* Menu bar */}
         <img
-          src="../../public/images/menu.png"
+          src="/images/menu.png"
           alt="Menu"
           className="md:hidden"
           onClick={() => setIsMenuOpen(true)}
@@ -59,7 +59,7 @@ const Hero = () => {
         ref={videoRef}
         onEnded={() => setVideoAction(false)}
         className="hidden md:block absolute inset-0 w-full h-full object-cover"
-        src="../../public/videos/IMG_6540.mp4"
+        src="/videos/IMG_6540.mp4"
       />
 
       {/* DARK OVERLAY */}
