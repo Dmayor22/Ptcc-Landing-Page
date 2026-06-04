@@ -3,7 +3,6 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://dmayor22.github.io/Ptcc-Landing-Page/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
