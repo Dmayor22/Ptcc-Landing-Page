@@ -98,7 +98,7 @@ const Hero = () => {
       {/* mobile design start */}
       {/* Mobile Menu */}
       <img
-        src="../../public/images/mobile-pastor.jpg"
+        src="/images/mobile-pastor.jpg"
         alt="hero-image"
         className="md:hidden absolute w-full h-full object-cover inset-0"
       />
